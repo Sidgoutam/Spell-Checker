@@ -1,4 +1,4 @@
-# Spell-Checker
+# Spell-Checker and Language Modelling for hindi language
 A spell checking program using Damaero-Levenstein Edit method and Language Modelling using Bigram Model.
 Run the indic_tokenizer.py using the command.
 "python indic_tokenizer.py --i corpus.txt --o corpus_tokenised.txt --l hin"
